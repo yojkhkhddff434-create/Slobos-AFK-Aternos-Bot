@@ -6,9 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "taigamin-MZE0.aternos.me:22400
+",
+    "port": 22400,
+    "version": 1.21.6
     "try-creative": false
   },
   "position": {
