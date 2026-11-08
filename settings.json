@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 22400,
     "version": "",
     "try-creative": false
   },
