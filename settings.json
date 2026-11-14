@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 25565,
-    "version": "1.21.1"
+    "ip": "taigaming.aternos.me",
+    "port":22400 ,
+    "version": "1.21.4"
   },
   "position": {
     "enabled": true,
